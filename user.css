@@ -1,11 +1,12 @@
 * {
-  font-family: "Meiryo";
+  font-family: "Noto Sans CJK JP Regular";
 }
 
 code, code span {
-  font-family: "consolas,'IPAexゴシック',Meiryo";
+  font-family: "Meiryo";
 }
 body {
+  color: black;
   padding-top: 0px;
 }
 
